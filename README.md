@@ -1,4 +1,4 @@
-# 👩‍💻Bem vindo, meu nome é Maria Luiza! 🐱‍👤 
+# 👩‍💻Bem vindo, meu nome é Maria Luiza!
 
 ### Meu GitHub:
 <div> 
