@@ -1,9 +1,10 @@
-# 👩‍💻Eu sou a Maria Luiza Sperancin Mancebo, e esse é meu GitHub:🐱‍👤 
+# 👩‍💻Bem vindo, meu nome é Maria Luiza! 🐱‍👤 
 
+### Meu GitHub:
 <div> 
   <a href="https://beacons.ai/malusperancin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cotrims&show_icons=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotrims&langs_count=8&layout=compact&theme=tokyonight"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malusperancin&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malusperancin&langs_count=8&layout=compact&theme=tokyonight"/>  
 </div>
 
   ---
