@@ -29,14 +29,13 @@
   
 ### Você pode me encontrar em:
 <div>
-  <a href="mailto:vini.cotrim@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-   <a href="https://www.facebook.com/vini.cotrim.5" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
-   <a href="https://twitter.com/cotrimsvini" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-   <a href="linkedin.com/in/vinícius-cotrim-06588a209linkedin.com/in/vinícius-cotrim-06588a209" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="mailto:mlsperancin@gmail.com" target="_blank"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"> </a>
+   <a href="https://www.youtube.com/channel/UCq4zyenC4Y1enJaNYSoPE9Q/videos" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png"> </a>
+   <a href="https://www.linkedin.com/in/maria-luiza-sperancin-mancebo-98185020a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
   
 ---
 
 <div> 
-    <img alt="" src="https://github.com/Cotrims/Cotrims/blob/output/github-contribution-grid-snake.svg">
+    <img alt="" src="https://github.com/malusperancin/Cotrims/blob/output/github-contribution-grid-snake.svg">
 </div>
