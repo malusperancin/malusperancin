@@ -23,6 +23,7 @@
   <img align="center" title="Dart" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" title="Flutter" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" title="SQL" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="right" alt="Rafa-yoda" src="https://discord.com/channels/739244960922206289/739244960922206292/878345514368790629">
 </div>
   
 <br>
