@@ -1,6 +1,5 @@
 # 👩‍💻Bem-vinda(o), meu nome é Maria Luiza!
 
-### Meu GitHub:
 <div> 
   <a href="https://beacons.ai/malusperancin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malusperancin&langs_count=8&layout=compact&theme=tokyonight"/>  
